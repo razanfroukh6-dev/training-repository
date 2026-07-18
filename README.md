@@ -1,1 +1,1 @@
-"# the link for nextflows academy info@nextflows.ai" 
+"# the link for nextflows academy https://nextflows.ai/academy" 
